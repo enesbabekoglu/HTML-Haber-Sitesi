@@ -1,6 +1,8 @@
 # HTML-Haber-Sitesi
 Sadece HTML Kullanılarak Hazırlanmış Haber Sitesi Projesi
 
+- Bu projede HTML dışında herhangi bir teknoloji kullanılmamıştır. HTML içerisinde kullanılabilen style etiketi de dahil olmak üzere hiçbir CSS kodunu ve JavaScript kodunu içermez.
+
 ![image](https://user-images.githubusercontent.com/92182480/211216373-672259ab-9e8a-4f7c-9735-528acfb31780.png)
 ![image](https://user-images.githubusercontent.com/92182480/211216394-be6c8703-e6d8-4c78-8b1a-bc7ccb700b85.png)
 ![image](https://user-images.githubusercontent.com/92182480/211216405-2f789f11-2bfd-42fc-b000-607d20215f04.png)
